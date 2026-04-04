@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_zoom_in"
+        android:title="@string/zoom_in"
+        android:icon="@drawable/ic_zoom_in"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_zoom_out"
+        android:title="@string/zoom_out"
+        android:icon="@drawable/ic_zoom_out"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_zoom_reset"
+        android:title="@string/zoom_reset"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_page_first"
+        android:title="@string/first_page"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_page_last"
+        android:title="@string/last_page"
+        app:showAsAction="never" />
+
+</menu>

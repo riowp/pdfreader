@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="no_recent_files">No recent files</string>
+    <string name="tap_to_open">Tap + to open a PDF</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="zoom_reset">Reset Zoom</string>
+    <string name="first_page">First Page</string>
+    <string name="last_page">Last Page</string>
+</resources>

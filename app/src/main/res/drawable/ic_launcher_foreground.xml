@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Page shape -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,20 L34,88 L74,88 L74,36 L58,20 Z"/>
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#BFDBFE"
+        android:pathData="M58,20 L58,36 L74,36 Z"/>
+    <!-- Text lines -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M42,48 L66,48 L66,51 L42,51 Z"/>
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M42,56 L66,56 L66,59 L42,59 Z"/>
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M42,64 L58,64 L58,67 L42,67 Z"/>
+</vector>
